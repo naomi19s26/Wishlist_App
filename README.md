@@ -25,7 +25,6 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
 ![Wishlist App](https://github.com/naomi19s26/Wishlist_App/blob/master/wishlist_project.gif)
 
 GIF created with ScreentoGif  
